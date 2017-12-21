@@ -15,12 +15,12 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "moment": "^2.15.1",
-    "socket.io": "^1.7.4"
+    "moment": "^2.20.1",
+    "socket.io": "^2.0.4"
   },
   "devDependencies": {
-    "expect": "^1.20.2",
-    "mocha": "^3.0.2",
+    "expect": "^22.0.3",
+    "mocha": "^4.0.1",
     "nodemon": "^1.13.3"
   }
 }

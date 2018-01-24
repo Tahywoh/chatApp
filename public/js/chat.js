@@ -24,7 +24,7 @@ socket.on('connect', function () {
   socket.emit('join', params, function (err) {
     if (err) {
       alert(err)
-      window.location.href = '/'
+      window.location.href = ' https://node-chat-app-qgbyvqxlaw.now.sh/'
     } else {
       console.log('No error')
     }
